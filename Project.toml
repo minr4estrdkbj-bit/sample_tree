@@ -1,0 +1,7 @@
+name = "SampleTree"
+uuid = "8a2e5d6a-0000-4000-8000-000000000000"
+authors = ["minr4estrdkbj-bit"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
